@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400&family=EB+Garamond:ital@1&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+
+.sidebar{
+    background-color: rgb(170, 100, 100);
+    width: 20vw;
+    height:100vh ;
+    font-family: 'Assistant', sans-serif;
+
+}
+.sidebar nav{
+    padding: 45px;
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 22px;
+   padding: 33px 0;
+}
+.main{
+    background-color: rgb(161, 211, 61);
+    width: 90vw;
+}
+.container{
+display: flex;   
+
+}
+.info-Container{
+    background-color:rgb(252, 236, 144);
+    height: 59vh;
+    width: 79vw;
+    margin: 144px auto;
+   
+
+}
+.dev-pic{
+    width: 321px;
+}
